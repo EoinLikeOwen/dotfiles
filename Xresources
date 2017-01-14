@@ -1,0 +1,12 @@
+URxvt.scrollBar: 0
+URxvt.fading: 60
+URxvt.fadeColor: #b32400
+URxvt.transparent: true
+URxvt.tintColor: brown
+URxvt.shading: 50
+URxvt.depth: 32
+URxvt.font: xft:Dejavu Sans Mono:antialias=true:pixelsize=16
+URxvt:boldFont: xft:Dejavu Sans Mono:style=bold:antialias=true:pixelsize=16
+
+URxvt.background: rgba:a000/a000/a000/0000
+URxvt.foreground : rbga:ffff/ffff/ffff/0000
